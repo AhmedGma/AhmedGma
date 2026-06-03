@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AhmedGma
+- 👋 Hi, I’m @AhmedGamal
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 📫 How to reach me -ahmedgmabuelalla@gmail.com
